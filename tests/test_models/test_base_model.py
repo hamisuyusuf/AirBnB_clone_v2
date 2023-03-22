@@ -7,7 +7,6 @@ from uuid import UUID
 import json
 import os
 
-
 class test_basemodel(unittest.TestCase):
     """ """
 
